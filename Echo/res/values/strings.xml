@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Echo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_server_ip">Enter the IP address of the server</string>
+    <string name="connect">Connect</string>
+    <string name="ip_part_1">192</string>
+    <string name="ip_part_2">168</string>
+    <string name="ip_part_3">1</string>
+    <string name="ip_part_4">68</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="help">Help</string>
+    <string name="most_recent">Most recent IPs</string>
+    <string name="settings">Settings</string>
+    <string name="help_title">Help</string>
+    <string name="help_content">This application plays the audio that is being streamed from the server. Make sure the server is turned ON and is waiting for the connection from the clients.\n\n<b>Connect</b>\nOn startup of the application, enter the IP address of the server and click on <i>Connect</i> button.\n\nThe background color turns green, if the connection is successful, and the audio starts playing.\n\nIf the connection fails, the background remains red.\n\n<b>Disconnect</b>\nPress the <i>Disconnect</i> button to disconnect from the server and stop streaming.\n\n<b>Reasons for failure</b>\nThe connection may fail due to invalid IP address or if the connection cannot be established.\n\n</string>
+
+</resources>

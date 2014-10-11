@@ -1,0 +1,13 @@
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\libmp3lame.32.dll
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\libmp3lame.64.dll
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\WirelessStreamerUI.exe
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\WirelessStreamerUI.pdb
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\NAudio.dll
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\NAudio.Lame.dll
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\bin\Debug\NAudio.xml
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\obj\x86\Debug\WirelessStreamerUI.csprojResolveAssemblyReference.cache
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\obj\x86\Debug\WirelessStreamerUI.Form1.resources
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\obj\x86\Debug\WirelessStreamerUI.Properties.Resources.resources
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\obj\x86\Debug\WirelessStreamerUI.csproj.GenerateResource.Cache
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\obj\x86\Debug\WirelessStreamerUI.exe
+C:\Users\sathvikwin8\Dropbox\Sem 1\FWN\Project\WirelessStreamerUI\WirelessStreamerUI\obj\x86\Debug\WirelessStreamerUI.pdb

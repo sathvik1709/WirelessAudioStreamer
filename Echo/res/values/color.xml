@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holoBlue">#0099CC</color>
+    <color name="holoRed">#CC0000</color>
+    <color name="holoOrange">#FF8800</color>
+    <color name="holoOrangeLight">#FFBB33</color>
+    <color name="lightRed">#77FF0000</color>
+    <color name="lightGreen">#BB99CC00</color>
+    <color name="lightOrange">#22FFBB33</color>
+</resources>
